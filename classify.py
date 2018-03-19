@@ -1,8 +1,4 @@
 '''
-Author: Mohit Mangal
-Email: mohit.mangal@innoplexus.com
-Phone: +91-9530028338
-
 Description: This script contains classifier code can be used for patch classification extracted from pdfs
 '''
 # -*- coding: utf-8 -*-
